@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(41, 7, 48);
+    font-family: 'SemiBold', sans-serif;
+    font-weight: 900; 
+    margin: 0;
+    padding: 0;
+    color:aliceblue
+}
+.centralizado {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.faq {
+    color: aqua
+}
+
+.destaques {
+    color:yellow
+}
+
+.destaque {
+    color: yellow
+}
+
+.jogar {
+    color:blue;
+    font-size: 30px;
+}
+
+.staff {
+    color:blue;
+    font-size: 30px;
+}
+
+.bugs {
+    color:blue;
+    font-size: 30px;
+}

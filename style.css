@@ -1,0 +1,40 @@
+body {
+    font-family: 'SemiBold', sans-serif;
+    font-weight: 900; /* Deixando o texto mais forte */
+    margin: 0;
+    padding: 0;
+    background-color: rgb(41, 7, 48);
+    color: #ffffff;
+}
+
+.centralizado {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+
+/* Estilização do link da FAQ */
+.faq-link {
+    font-size: 20px;
+    font-weight: 700;
+    color: #392ce9; /* Azul vibrante igual ao da imagem */
+}
+
+
+
+.destaque {
+    color: #5860ff; /* Cor dourada, altere conforme desejar */
+}
+
+.quemsomos {
+    font-size: 20px;
+    font-weight: 700;
+    color:#392ce9
+}
+
+.jogos {
+    font-size: 20px;
+    font-weight: 700;
+    color: #392ce9;
+}
